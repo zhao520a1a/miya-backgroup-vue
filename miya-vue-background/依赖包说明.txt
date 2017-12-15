@@ -1,0 +1,12 @@
+
+# 安装vue $ npm install vue@2.1.6
+# 全局安装 vue-cli $ npm install --global vue-cli
+# 创建一个基于 webpack 模板的新项目my-project $ vue init webpack my-project
+# 进入项目目录 $ cd my-project
+# 安装依赖，走你 $ npm install
+# 运行项目 $ npm run dev
+
+$ npm i element-ui@1.0.9
+npm install vue-router --save
+npm install --save src/components/address.vue
+

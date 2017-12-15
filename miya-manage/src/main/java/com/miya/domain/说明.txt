@@ -1,0 +1,7 @@
+dao层的类和数据库表的映射对象类必须是以下结构：
+目录结构：
+--dao包    --***Dao类
+--Entity类
+，否则会报以下错误：
+
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found):
